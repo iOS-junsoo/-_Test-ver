@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "시작1 (4).jpeg",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "20x20"
@@ -41,11 +42,13 @@
       "size" : "60x60"
     },
     {
+      "filename" : "시작1 (3).jpeg",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "20x20"
     },
     {
+      "filename" : "시작1 (4)-1.jpeg",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "20x20"
@@ -86,6 +89,7 @@
       "size" : "83.5x83.5"
     },
     {
+      "filename" : "시작1 (5).jpeg",
       "idiom" : "ios-marketing",
       "scale" : "1x",
       "size" : "1024x1024"
